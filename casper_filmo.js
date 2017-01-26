@@ -100,7 +100,7 @@ function outputJson(){
 }
 
 /*
- * SCRIPT INITIALZATION
+ * SCRIPT INITIALIZATION
  *
  */
 casper.start(url);
